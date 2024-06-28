@@ -2,14 +2,14 @@
   <img src="https://media.licdn.com/dms/image/D5635AQFVvbdiwlNc3g/profile-framedphoto-shrink_400_400/0/1713373007241?e=1720206000&v=beta&t=NTwAIRuBYWFLGyzKG6tHrWiyJVph4K4L58m21eCffgE" alt="ionic" width="60" height="60"/>  
 </p>
 <h2 align="center">
-Hi There 👋
+Hello 👋
 </h2>
-<h1 align="center">
-I am Kyrylo Bielohryvtsev
-</h1>
+<h2 align="center">
+As you already guessed, my name is Kyrylo Bielohryvtsev
+</h2>
 
 <h3 align="center">
-Software QA Engineer 
+I am a Techpreneur , Fullstack Developer , Product Developer
 </h3>
 
  
