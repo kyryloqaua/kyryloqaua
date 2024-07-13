@@ -5,7 +5,7 @@
 Hello 👋
 </h2>
 <h2 align="center">
-As you already guessed, my name is Kyrylo Bielohryvtsev
+My name is Kyrylo Bielohryvtsev
 </h2>
 
 <h3 align="center">
