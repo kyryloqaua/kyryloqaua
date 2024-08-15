@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D5635AQFVvbdiwlNc3g/profile-framedphoto-shrink_400_400/0/1713373007241?e=1720206000&v=beta&t=NTwAIRuBYWFLGyzKG6tHrWiyJVph4K4L58m21eCffgE" alt="ionic" width="60" height="60"/>  
-</p>
 <h2 align="center">
 Hello 👋
 </h2>
@@ -9,7 +6,7 @@ My name is Kyrylo Bielohryvtsev
 </h2>
 
 <h3 align="center">
-I am a Techpreneur , Fullstack Developer , Product Developer
+Aerospace Engineering graduate with a strong academic foundation and hands-on experience in avionics, systems engineering, and hardware development. Proficient in MATLAB, Simulink, and ANSYS, with a commitment to precision and innovation. A team player who values communication and fosters a positive, hardworking environment
 </h3>
 
  
