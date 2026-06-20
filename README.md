@@ -1,70 +1,65 @@
-<h2 align="center">
-Hello 👋
-</h2>
-
-<h2 align="center">
-I'm Kyrylo Bielohryvtsev
-</h2>
-
-<h3 align="center">
-QA & Test Automation Engineer | Autonomous Systems | Aerospace Engineering
-</h3>
+<h1 align="center">Hi, I'm Kyrylo Bielohryvtsev 👋</h1>
 
 <p align="center">
-I design and validate complex systems at the intersection of <b>Autonomous Vehicles, Aerospace Engineering, and Software Quality Assurance</b>.  
-With a background in Aerospace Engineering and hands-on AV testing experience, I focus on building reliable, testable, and scalable systems using <b>Python, automation frameworks, and data-driven validation</b>.
+  <strong>Test Engineer at Zoox</strong><br>
+  Autonomous systems · Python automation · Data-driven validation
 </p>
+
+<p align="center">
+  I build testable, reliable systems at the intersection of software quality,
+  autonomous vehicle validation, and aerospace engineering.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kyrylo-bielohryvtsev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+## Current role
+
+I currently work at **Zoox as a Test Engineer**, building and validating pickup and drop-off (PUDO) zones across multiple states.
+
+My work includes:
+
+- Building and validating geospatial polygons for PUDO zones
+- Creating test plans and defining validation coverage
+- Scheduling, coordinating, and monitoring test execution
+- Running simulations to evaluate expected vehicle behavior
+- Investigating results, identifying issues, and supporting test triage
+- Managing engineering workflows with GitHub, Git, the terminal, Jira, and internal tools
+
+## What I work on
+
+- Test automation and framework design in Python and JavaScript
+- Autonomous vehicle behavior validation and failure triage
+- API, UI, and end-to-end testing with Playwright, Cypress, Selenium, and XCUITest
+- Signal processing, simulation, and data visualization
+- Reproducible debugging and clear root-cause analysis
+
+## Selected projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [PUDO Validation](https://github.com/kyryloqaua/pudo-validation) | Unit-tested pickup/drop-off validation for autonomous vehicle behavior, including geospatial, speed, occupancy, and zone-state rules. |
+| [Signal Processing with Python](https://github.com/kyryloqaua/Signal-Processing-with-Python) | Audio analysis and visualization using FFTs, spectrograms, chromagrams, MFCCs, NumPy, Librosa, Matplotlib, and PyQt. |
+| [Learn Playwright](https://github.com/kyryloqaua/learn_playwright) | Cross-browser UI automation with Playwright and a GitHub Actions test workflow. |
+| [iOS Testing with XCUITest](https://github.com/kyryloqaua/testing-iOS-app-with-XCUI) | Screen abstractions and automated UI testing for an iOS application. |
+| [Harmonic Sound System](https://github.com/kyryloqaua/Harmonic-Sound-System) | An Arduino-based system connecting button input, LEDs, a buzzer, and harmonic frequencies. |
+
+## Toolbox
+
+**Languages:** Python · JavaScript · Swift · SQL  
+**Testing:** Playwright · Cypress · Selenium · XCUITest · Jest · unittest  
+**Engineering:** Git · GitHub · GitHub Actions · Terminal · Linux · REST APIs · CI/CD · Jira · Internal tools  
+**Modeling & analysis:** MATLAB · Simulink · NumPy · Librosa · Matplotlib · ANSYS
+
+## How I approach quality
+
+I prefer small, deterministic tests with clear failure signals. My goal is not only to detect a problem, but to make its cause easy to isolate, reproduce, and explain.
 
 ---
 
-<h3 align="center"><b>Core Focus Areas</b></h3>
-
 <p align="center">
-🚗 Autonomous Vehicle Validation & Systems Testing  
-🧪 Python Test Automation & QA Engineering  
-📊 Data Analysis & System Behavior Validation  
-✈️ Aerospace Systems & Control Engineering  
-📈 MATLAB / Simulink Modeling & Simulation  
-</p>
-
----
-
-<h3 align="center"><b>Languages & Tools</b></h3>
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="60" height="60"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cypressio/cypressio-original.svg" width="70" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" width="60" height="40"> 
-</p>
-
-<p align="center">
-  MATLAB | Simulink | ANSYS | Git | Linux | REST APIs | CI/CD
-</p>
-
----
-
-<h3 align="center"><b>Current Interests</b></h3>
-
-<p align="center">
-• Autonomous behavior validation & triage  
-• Simulation-based testing  
-• Test framework architecture in Python  
-• Signal processing & system modeling  
-• Data-driven debugging & root cause analysis  
-</p>
-
----
-
-<p align="center">
-<b>Let's Connect 📫</b>
-<br><br>
-<a href="https://www.linkedin.com/in/kyrylo-bielohryvtsev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a href="mailto:kyryloqa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
+  Open to conversations about test automation, autonomous systems validation, and engineering quality.
 </p>
